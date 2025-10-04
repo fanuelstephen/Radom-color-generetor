@@ -16,11 +16,16 @@ body {
   margin-bottom: 40px;
 }
 .heading h1 {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: 5px;
 }
 .heading span {
   font-family: serif;
+}
+.subheader {
+  font-size: 20px;
+  color: #555;
+  font-weight: bold;
 }
 .container {
   display: flex;
@@ -39,6 +44,6 @@ body {
   font-size: 24px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
   border: 2px solid black;
-  border-radius: 10px;
+  border-radius: 100px;
   font-family: serif;
 }
